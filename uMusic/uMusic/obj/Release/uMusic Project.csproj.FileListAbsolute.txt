@@ -1,0 +1,13 @@
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\uMusic.exe.config
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic.exe
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic.pdb
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\uMusic.exe
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\uMusic.pdb
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\DirectShowLib-2005.dll
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\Splicer.dll
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\bin\Release\Splicer.pdb
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\ResolveAssemblyReference.cache
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic.Main.resources
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic.Properties.Resources.resources
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic.Upload.resources
+D:\Panel\C# Programs\uMusic\uMusic\uMusic\obj\Release\uMusic Project.csproj.GenerateResource.Cache
